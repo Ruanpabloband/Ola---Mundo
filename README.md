@@ -10,7 +10,7 @@
 </h2>
 
 ### Sobre mim:
-- Sou apaixonado pela área da computação e desenvolvimento. 💻
+- Sou completamente apaixonado pela área da computação e desenvolvimento. 💻
 - Compartilhar conhecimento é a melhor forma de obter mais conhecimento. ⚡
 ##
 
