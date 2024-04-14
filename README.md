@@ -11,7 +11,7 @@
 
 ### Sobre mim:
 - Sou completamente apaixonado pela área da computação e desenvolvimento e gosto de trabalhar com Front-end. 💻
-- Compartilhar conhecimento é a melhor forma de obter mais conhecimento. ⚡
+- Acredite que você merece o sucesso e trabalhe duro para conquistá-lo. ⚡
 ##
 
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
